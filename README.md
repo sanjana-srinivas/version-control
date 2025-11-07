@@ -1,2 +1,2 @@
 # version-control
-Git GitHub
+Git and GitHub
