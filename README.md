@@ -1,2 +1,2 @@
-# version-control
+# Version Control
 Git and GitHub
